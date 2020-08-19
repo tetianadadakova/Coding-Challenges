@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
 
 bool isMatch(const std::string &text, const std::string &pattern);
 bool isMatch(const std::string &text, const std::string &pattern, int ind_t, int ind_p) ;
